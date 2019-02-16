@@ -1,0 +1,1 @@
+Default readme file should always be present to let others know what this is about
